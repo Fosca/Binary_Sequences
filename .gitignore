@@ -3,3 +3,4 @@ config_files_mne_bids_pipeline
 initialization_paths
 TransitionProbModel
 functions/__pycache__
+.idea/workspace.xml
