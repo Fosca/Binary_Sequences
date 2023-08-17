@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a999b25-b68f-4883-a3c5-8728948c945c" name="Changes" comment="corrected dependency">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/config.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/functions/article_plotting_funcs.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/functions/epoching_funcs.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D50ZcKZg1cAaUoJqypx90uCoBB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "/Users/fosca/Documents/Fosca/Post_doc/Projects/ABSeq/scripts/Binary_Sequences",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config_files_mne_bids_pipeline" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a999b25-b68f-4883-a3c5-8728948c945c" name="Changes" comment="" />
+      <created>1659973695504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659973695504</updated>
+      <workItem from="1659973698553" duration="17634000" />
+      <workItem from="1663601564773" duration="14491000" />
+      <workItem from="1663748499136" duration="1064000" />
+      <workItem from="1663749786700" duration="41000" />
+      <workItem from="1664375612364" duration="3194000" />
+      <workItem from="1664458737949" duration="98000" />
+      <workItem from="1682081595617" duration="1105000" />
+      <workItem from="1685534673179" duration="9445000" />
+      <workItem from="1685618918219" duration="5272000" />
+      <workItem from="1685974764510" duration="26492000" />
+      <workItem from="1686820151066" duration="21000" />
+      <workItem from="1688470779224" duration="12427000" />
+      <workItem from="1688747900555" duration="13442000" />
+      <workItem from="1689077938278" duration="597000" />
+      <workItem from="1691345167194" duration="11777000" />
+      <workItem from="1691425771641" duration="742000" />
+      <workItem from="1691591109888" duration="1789000" />
+      <workItem from="1692263087188" duration="861000" />
+      <workItem from="1692264377257" duration="380000" />
+    </task>
+    <task id="LOCAL-00001" summary="corrected dependency">
+      <created>1659973903424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659973903424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="corrected dependency">
+      <created>1659974048365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659974048370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="corrected dependency">
+      <created>1659975544516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659975544517</updated>
+    </task>
+    <task id="LOCAL-00004" summary="corrected dependency">
+      <created>1659975926420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659975926421</updated>
+    </task>
+    <task id="LOCAL-00005" summary="corrected dependency">
+      <created>1659976055459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659976055459</updated>
+    </task>
+    <task id="LOCAL-00006" summary="corrected dependency">
+      <created>1659976846124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659976846124</updated>
+    </task>
+    <task id="LOCAL-00007" summary="corrected dependency">
+      <created>1659977054035</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659977054036</updated>
+    </task>
+    <task id="LOCAL-00008" summary="corrected dependency">
+      <created>1659978392704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659978392704</updated>
+    </task>
+    <task id="LOCAL-00009" summary="corrected dependency">
+      <created>1659978665960</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659978665961</updated>
+    </task>
+    <task id="LOCAL-00010" summary="corrected dependency">
+      <created>1659995859483</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659995859483</updated>
+    </task>
+    <task id="LOCAL-00011" summary="corrected dependency">
+      <created>1660033114301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660033114302</updated>
+    </task>
+    <task id="LOCAL-00012" summary="corrected dependency">
+      <created>1660033406492</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660033406493</updated>
+    </task>
+    <task id="LOCAL-00013" summary="corrected dependency">
+      <created>1660050010148</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660050010148</updated>
+    </task>
+    <task id="LOCAL-00014" summary="corrected dependency">
+      <created>1660050136460</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660050136462</updated>
+    </task>
+    <task id="LOCAL-00015" summary="corrected dependency">
+      <created>1660053293284</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660053293285</updated>
+    </task>
+    <task id="LOCAL-00016" summary="corrected dependency">
+      <created>1660054230871</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660054230872</updated>
+    </task>
+    <task id="LOCAL-00017" summary="corrected dependency">
+      <created>1660056462682</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660056462683</updated>
+    </task>
+    <task id="LOCAL-00018" summary="corrected dependency">
+      <created>1660066084104</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660066084104</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="corrected dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected dependency" />
+  </component>
+</project>
